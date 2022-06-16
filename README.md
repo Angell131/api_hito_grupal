@@ -1,1 +1,0 @@
-# api_hito_grupal
